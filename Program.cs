@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace testApp
+namespace assignment3_loops
 {
     class Program
     {
